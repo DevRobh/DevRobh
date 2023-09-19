@@ -47,12 +47,11 @@ Tenho passado os últimos 3 anos imerso no fascinante mundo da tecnologia, busca
     <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <br>
     <img align="right" src="https://github.com/DevRobh/DevRobh/assets/64811534/f274a838-2c82-4ad6-873c-0a4520b50e54">
 </div>
 
 <hr>
-<div align="center">
+<div>
   
   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRobh&layout=compact&theme=dracula&hide_border=true)
   ![Status](https://github-readme-stats.vercel.app/api?username=DevRobh&show_icons=true&hide_border=true&theme=dracula)
