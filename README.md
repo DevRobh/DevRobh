@@ -57,3 +57,5 @@ Tenho passado os últimos 3 anos imerso no fascinante mundo da tecnologia, busca
   ![Status](https://github-readme-stats.vercel.app/api?username=DevRobh&show_icons=true&hide_border=true&theme=dracula)
   
 </div>
+
+[mishmanners snake gif](https://github.com/devrobh/DevRobh/blob/output/github-contribution-grid-snake.svg)
