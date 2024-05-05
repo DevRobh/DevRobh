@@ -53,7 +53,7 @@ Tenho passado os últimos 3 anos imerso no fascinante mundo da tecnologia, busca
 <hr>
 <div>
   
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRobh&layout=compact&theme=dracula&hide_border=true)
-  ![Status](https://github-readme-stats.vercel.app/api?username=DevRobh&show_icons=true&hide_border=true&theme=dracula)
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=OpsRennerDev&layout=compact&theme=dracula&hide_border=true)
+  ![Status](https://github-readme-stats.vercel.app/api?username=OpsRennerDev&show_icons=true&hide_border=true&theme=dracula)
   
 </div>
